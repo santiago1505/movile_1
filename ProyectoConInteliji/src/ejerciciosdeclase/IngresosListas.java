@@ -24,7 +24,7 @@ public class IngresosListas {
         }
         for (int i = 0; i < valores.size(); i++){
              suma += valores.get(i);
-                System.out.println("la actividad " + i + " es: " + valores.get(i));
+                System.out.println("el valor  " + i + " es: " + valores.get(i));
 
 
         }
